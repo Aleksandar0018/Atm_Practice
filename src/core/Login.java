@@ -6,5 +6,5 @@ public class Login {
 
     //password
 
-    .\//login
+    //login
 }
